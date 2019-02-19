@@ -1,2 +1,6 @@
 # ignore database
 dreamwork_proto.db
+# ignore migrations
+Migrations/
+# ignore bin
+bin/
