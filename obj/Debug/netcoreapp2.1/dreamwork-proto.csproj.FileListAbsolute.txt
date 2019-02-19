@@ -1,0 +1,14 @@
+C:\Users\Austin\Source\Repos\dreamwork-proto\obj\Debug\netcoreapp2.1\dreamwork-proto.csprojAssemblyReference.cache
+C:\Users\Austin\Source\Repos\dreamwork-proto\obj\Debug\netcoreapp2.1\dreamwork-proto.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Source\Repos\dreamwork-proto\obj\Debug\netcoreapp2.1\dreamwork-proto.RazorAssemblyInfo.cache
+C:\Users\Austin\Source\Repos\dreamwork-proto\obj\Debug\netcoreapp2.1\dreamwork-proto.RazorAssemblyInfo.cs
+C:\Users\Austin\Source\Repos\dreamwork-proto\obj\Debug\netcoreapp2.1\dreamwork-proto.AssemblyInfoInputs.cache
+C:\Users\Austin\Source\Repos\dreamwork-proto\obj\Debug\netcoreapp2.1\dreamwork-proto.AssemblyInfo.cs
+C:\Users\Austin\Source\Repos\dreamwork-proto\bin\Debug\netcoreapp2.1\dreamwork-proto.deps.json
+C:\Users\Austin\Source\Repos\dreamwork-proto\bin\Debug\netcoreapp2.1\dreamwork-proto.runtimeconfig.json
+C:\Users\Austin\Source\Repos\dreamwork-proto\bin\Debug\netcoreapp2.1\dreamwork-proto.runtimeconfig.dev.json
+C:\Users\Austin\Source\Repos\dreamwork-proto\bin\Debug\netcoreapp2.1\dreamwork-proto.dll
+C:\Users\Austin\Source\Repos\dreamwork-proto\bin\Debug\netcoreapp2.1\dreamwork-proto.pdb
+C:\Users\Austin\Source\Repos\dreamwork-proto\obj\Debug\netcoreapp2.1\dreamwork-proto.RazorTargetAssemblyInfo.cache
+C:\Users\Austin\Source\Repos\dreamwork-proto\obj\Debug\netcoreapp2.1\dreamwork-proto.dll
+C:\Users\Austin\Source\Repos\dreamwork-proto\obj\Debug\netcoreapp2.1\dreamwork-proto.pdb
