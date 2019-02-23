@@ -1,6 +1,6 @@
 {
-  "name": "dreamwork-pwa",
-  "short_name": "dreamwork-pwa",
+  "name": "pwa",
+  "short_name": "A prototypety",
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",

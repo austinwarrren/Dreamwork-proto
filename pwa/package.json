@@ -1,8 +1,8 @@
 {
-  "name": "dreamwork-pwa",
+  "name": "pwa",
   "version": "1.0.0",
-  "description": "A prototype of Dreamwork's PWA",
-  "author": "Austinwarrren ",
+  "description": "A prototype of the eventual Dreamwork PWA",
+  "author": "Austinwarrren",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

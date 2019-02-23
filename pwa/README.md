@@ -1,6 +1,6 @@
-# dreamwork-pwa
+# pwa
 
-> A prototype of Dreamwork's PWA
+> A prototype of the eventual Dreamwork PWA
 
 ## Build Setup
 
